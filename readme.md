@@ -1,3 +1,7 @@
+Computer Vision assignment that uses your webcam to simulate drums.  You will need one or two coloured cards, preferably colours that are not present in the rest of the room.
+
+
+
 Requirements:
 -	Java 1.8
 -	Ant
