@@ -26,3 +26,7 @@ Navigate to the bin directory then:
 For calibration: 	java -Djava.library.path=../lib CardDrumming calibrate
 For running:		java -Djava.library.path=../lib CardDrumming run		
 
+
+
+TODO:
+-	Automatic calibration of colours.
